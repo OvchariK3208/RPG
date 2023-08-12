@@ -2,7 +2,11 @@
 
 ![Random Password Generator preview]()
 
-Pizza Time: A delicious online experience. I designed and developed an e-commerce platform for this pizza restaurant, featuring an interactive menu with a variety of options including pizza, sushi, and pasta. Simplifying the online ordering process and providing a seamless user experience was the key goal of this project. Please note, this project mostly uses React Classes as a way to learn. But it's also good to understand that React Hooks are quite important too, and using classes doesn't make hooks any less relevant.
+Random Password Generator is a program that generates random passwords. It is designed to create strong and secure passwords that can be used to protect accounts, files, or any other confidential data.
+
+The Random Password Generator program allows the user to customize password generation parameters, such as password length, the use of different types of characters (uppercase and lowercase letters, numbers, special characters), and the exclusion of certain characters or patterns.
+
+After configuring the parameters, the program generates a random password, which is displayed to the user. The user can copy the generated password and use it for their desired purposes.
 
 Live Version: [Random Password Generator](https://melodious-starburst-3a9b60.netlify.app/)
 
