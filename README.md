@@ -1,4 +1,12 @@
-# Getting Started with Create React App
+# Random Password Generator
+
+![Random Password Generator preview]()
+
+Pizza Time: A delicious online experience. I designed and developed an e-commerce platform for this pizza restaurant, featuring an interactive menu with a variety of options including pizza, sushi, and pasta. Simplifying the online ordering process and providing a seamless user experience was the key goal of this project. Please note, this project mostly uses React Classes as a way to learn. But it's also good to understand that React Hooks are quite important too, and using classes doesn't make hooks any less relevant.
+
+Live Version: [Random Password Generator](https://melodious-starburst-3a9b60.netlify.app/)
+
+## Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
