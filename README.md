@@ -10,6 +10,13 @@ After configuring the parameters, the program generates a random password, which
 
 Live Version: [Random Password Generator](https://melodious-starburst-3a9b60.netlify.app/)
 
+## Tech Stack
+
+  * React, ReactDOM, React Router DOM
+  * Typescript
+  * Redux, Redux Toolkit, RTK Query, axios
+  * Tailwindcss, React Icons
+
 ## Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
