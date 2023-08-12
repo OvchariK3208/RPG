@@ -1,6 +1,6 @@
 # Random Password Generator
 
-![Random Password Generator preview]()
+![Random Password Generator preview](https://github.com/OvchariK3208/RPG/blob/main/Screenshot_2023-08-12-18-13-24-642_com.kiwibrowser.browser-01.jpeg)
 
 Random Password Generator is a program that generates random passwords. It is designed to create strong and secure passwords that can be used to protect accounts, files, or any other confidential data.
 
