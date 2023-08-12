@@ -58,6 +58,7 @@ const SettingsPassword: FC<ISettingsPassword> = ({
 		
 	useEffect(() => {
   	toggleSettingsPassword(settings)
+  	// eslint-disable-next-line react-hooks/exhaustive-deps
   }, [settings])
 	return (
 		<>
