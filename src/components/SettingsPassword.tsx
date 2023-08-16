@@ -62,7 +62,7 @@ const SettingsPassword: FC<ISettingsPassword> = ({
   }, [settings])
 	return (
 		<>
-			<div className="flex items-center justify-between">
+			<div className="flex items-center justify-between">  
 				<div className="">Password Settings</div>
 				<Button 
 				  onClick={() => setInfoMessage((prev) => !prev)}>

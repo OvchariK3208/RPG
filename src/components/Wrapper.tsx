@@ -6,7 +6,7 @@ interface IWrapper {
 
 const Wrapper: FC<IWrapper> = ({ children }) => {
 	return (
-		<div className="flex flex-col gap-2">
+		<div className="flex flex-col gap-2 max-sm:gap-4">
 			{ children }
 		</div>
 	)

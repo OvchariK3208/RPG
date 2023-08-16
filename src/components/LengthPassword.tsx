@@ -18,7 +18,7 @@ const LengthPassword: FC<ILengthPassword> = ({
 			<input 
 				type="range" 
 				min="8" 
-				max="38" 
+				max="32" 
 				step="1"
 				value={ value } 
 				onChange={ onChange }
