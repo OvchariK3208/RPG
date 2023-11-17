@@ -42,7 +42,7 @@ const Home: FC = () => {
 		<Container>
 			<div className="flex flex-col h-full">
 				<div className="flex items-center justify-between border-b border-black p-5">
-					<h2 className="">Random Password Generator</h2>
+					<h2 className="sm:w-3/4">Random Password Generator</h2>
 					<Link to="/passwords">
 						<button 
 							className="text-2xl px-2 cursor-pointer">

@@ -26,7 +26,7 @@ const Checkbox: FC<ICheckbox> = ({
 		}
 	}
 	return (
-		<div className="w-1/2 h-auto flex items-center gap-2 cursor-pointer">
+		<div className="w-full md:w-1/2 h-auto flex items-center gap-2 cursor-pointer">
       <input 
       	type="checkbox" 
       	id={ id } 
@@ -34,7 +34,7 @@ const Checkbox: FC<ICheckbox> = ({
       	onChange={(event) => handleCheckbox(event, id)} />
       <label 
       	htmlFor={ id }
-      	className="w-3/4">
+      	className="w-3/4 max-sm:w-2/3">
       	{ text }
       </label>
     </div>

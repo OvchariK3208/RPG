@@ -20,7 +20,7 @@ const Input: FC<IInput> = ({
 				type="text"
 				value={	value }
 				onChange={ onChange }
-				className="bg-inherit py-3 px-5 w-full placeholder:text-white border-none focus:outline-none rounded-lg" />
+				className="bg-inherit py-3 px-4 w-full placeholder:text-white border-none focus:outline-none rounded-lg max-md:px-2" />
 			{ children }
 		</div>
 	)
